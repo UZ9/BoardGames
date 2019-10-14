@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.yerti.boardgames.Monopoly.main" target="1.8" />
+      <module name="com.yerti.boardgames.Monopoly.test" target="1.8" />
+      <module name="com.yerti.monopoly.Monopoly.main" target="1.8" />
+      <module name="com.yerti.monopoly.Monopoly.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
